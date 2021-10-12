@@ -6,6 +6,7 @@ We build the SIRV model simulations for several countries in the context of the 
 
 ### Files
 - The [`project_overview.pdf`](./project_overview.pdf) file contains a more detailed explanation of the project
+- The [`main.ipynb`](./main.ipynb) file contains the coded analysis
 - The [`data`](./data) folder contains the data used in the analysis (last updated on 07/06/2021)
 
 ### Original data sources for each dataset
