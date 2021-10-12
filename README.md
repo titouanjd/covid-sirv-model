@@ -4,7 +4,7 @@ This project (1) models the evolution of various COVID-19-related measurements o
 
 We build the SIRV model simulations for several countries in the context of the COVID-19 pandemic. By making assumptions on parameters, we can estimate different scenarios under which the pandemic could develop.
 
-The `data` folder contains the data used in the analysis (last updated on 07/06/2021)
+The [data](https://github.com/titouanjd/COVID_SIRV_model/tree/main/data) folder contains the data used in the analysis (last updated on 07/06/2021)
 
 Original data sources for each dataset:
 
