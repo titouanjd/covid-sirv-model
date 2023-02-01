@@ -2,7 +2,7 @@
 
 This project (1) models the evolution of various COVID-19-related measurements over time and (2) computes a simulation of the SIRV (Susceptible, Infected, Removed, Vaccinated) model, an epidemiological model that computes the theoretical number of people infected with a contagious illness in a closed population over time.
 
-We build the SIRV model simulations for several countries in the context of the COVID-19 pandemic. By making assumptions on parameters, we can estimate different scenarios under which the pandemic could develop.
+SIRV model simulations were run for several countries in the context of the COVID-19 pandemic. By making assumptions on parameters, we can estimate different scenarios under which the pandemic could develop.
 
 ### Files
 
